@@ -6,6 +6,6 @@ target 'LearnCocoapods' do
   # use_frameworks!
 
   # Pods for LearnCocoapods
-pod 'Masonry'
+pod 'Masonry', '~> 1.0.0'
 
 end
